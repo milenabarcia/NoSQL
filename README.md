@@ -46,4 +46,10 @@ Para entrega desta atividade utilize o readme.md de um repositório remoto, crie
 
 Na terceira etapa tira um print-screen da sua tela onde contem o banco de dados não relacional, a imagem deve conter sua identificação na conta do Google Firestore e os itens solicitados na atividade
 
+# Exemplo Firebase
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/milenabarcia/NoSQL/blob/main/Firebase_Ex_Garfild.jpg?raw=true)
+
+# Tema Jogos Firebase
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/milenabarcia/NoSQL/blob/main/Firebase_Jogos.jpg?raw=true)
+
 # Milena  Mazzei Barcia RA:237291
