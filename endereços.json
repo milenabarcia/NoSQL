@@ -1,0 +1,78 @@
+{
+  "Funcionarios": [
+    {
+      "id_funcionario": 1,
+      "nome": "João Grilo",
+      "endereco": {
+        "id_endereco": 1,
+        "rua": "Rua Suassuna",
+        "numero": 30,
+        "cidade": "João Pessoa",
+        "estado": "PB",
+        "complemento": null
+      },
+      "emails": [
+        "grilo@mail.com",
+        "joaog@mk.com"
+      ],
+      "cargo": "Contador",
+      "jornada": 40,
+      "salario": 3000.00
+    },
+    {
+      "id_funcionario": 2,
+      "nome": "Ada Byron",
+      "endereco": {
+        "id_endereco": 2,
+        "rua": "Rua Lovelace",
+        "numero": 67,
+        "cidade": "London",
+        "estado": null,
+        "complemento": null
+      },
+      "emails": [
+        "ada@mail.com",
+        "abyron@tech.com"
+      ],
+      "cargo": "Developer",
+      "jornada": 20,
+      "salario": 15000.00
+    },
+    {
+      "id_funcionario": 3,
+      "nome": "Gerundino",
+      "endereco": {
+        "id_endereco": 3,
+        "rua": "Rua Substantivo",
+        "numero": 78,
+        "cidade": "Mesóclise",
+        "estado": "AC",
+        "complemento": "Bairro Predicado"
+      },
+      "emails": [
+        "gerundino@gmail.com"
+      ],
+      "cargo": "Linguista",
+      "jornada": 44,
+      "salario": 8000.00
+    },
+    {
+      "id_funcionario": 4,
+      "nome": "Chicó",
+      "endereco": {
+        "id_endereco": 4,
+        "rua": "Rua Eurico",
+        "numero": 50,
+        "cidade": "João Pessoa",
+        "estado": "PB",
+        "complemento": "Apt 28 Bloco C"
+      },
+      "emails": [
+        "chicó@mail.com"
+      ],
+      "cargo": "Developer",
+      "jornada": 20,
+      "salario": 15000.00
+    }
+  ]
+}
